@@ -19,6 +19,7 @@ Some awesome algorithm books I collected.
 * 数据结构与算法分析C++描述.pdf
 * 数据结构与算法分析：C语言描述（第2版）.pdf
 * 算法图解 - [美] Aditya Bhargava.epub
+* 算法图解 - [美] Aditya Bhargava.pdf
 * 算法导论（第2版）.pdf
 * 算法帝国.克里斯托弗·斯坦纳.epub
 * 算法心得 高效算法的奥秘 原书第2版.pdf
@@ -33,21 +34,21 @@ Some awesome algorithm books I collected.
 * Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 * DATA MINING AND ANALYSIS (数据挖掘与分析).pdf
 * data mining guide.pdf
-* prml-errata-1st-20110921.pdf
-* prml-errata-2nd-20110921.pdf
-* prml-errata-3rd-20110921.pdf
-* prml-slides-1.pdf
-* prml-slides-2.pdf
-* prml-slides-3.pdf
-* prml-slides-8.pdf
+* prml-errata-1st-20110921 / prml-errata-2nd-20110921 / prml-errata-3rd-20110921.pdf
+* prml-slides-1 / prml-slides-2 / prml-slides-3 / prml-slides-8.pdf
 * prml-web-sol-2009-09-08.pdf
+* Python数据分析与挖掘实战.pdf
 * The Master Algorithm - Pedro Domingos.epub
+* TensorFlow实战_黄文坚（完整）.pdf
+* TensorFlow Machine Learning Cookbook.pdf
+* 21个项目玩转深度学习：基于TensorFlow的实践详解.pdf
 * 机器学习从认知到实践(第2辑)(套装共3册,Python+TensorFlow)（异步图书）.epub
 * 机器学习系统设计(图灵程序设计丛书).epub
 * 梯度下降.pdf
 * 神经网络原理.pdf
 * 神经网络和深度学习.pdf
 * 统计学习方法李航.pdf
+* 统计学习方法-李航.pdf
 * 集体智慧编程-python算法应用.pdf
 
 ## [algorithms for interview: 面试算法](https://github.com/bat67/awesome-algorithm-books/tree/master/interview)
