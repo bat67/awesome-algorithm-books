@@ -3,6 +3,14 @@ Some awesome algorithm books I collected.
 
 [不断更新中] 搜集整理的算法书籍（经典算法、ML/DL算法、面试算法、比赛算法等） 
 
+> 目录：（目录更新有延迟，全部书籍还请看具体文件夹）
+- [awesome algorithm books](#awesome-algorithm-books)
+  - [classic algorithms: 经典算法](#classic-algorithms-经典算法)
+  - [ML and DL algorithms: 机器学习与深度学习算法](#ml-and-dl-algorithms-机器学习与深度学习算法)
+  - [algorithms for interview: 面试算法](#algorithms-for-interview-面试算法)
+  - [algorithms for competition: 竞赛算法](#algorithms-for-competition-竞赛算法)
+
+
 ## [classic algorithms: 经典算法](https://github.com/bat67/awesome-algorithm-books/tree/master/classic%20algorithms)
 
 * A Common-Sense Guide to Data Structures and Algorithms - Level Up Your Core Programming Skills.epub
